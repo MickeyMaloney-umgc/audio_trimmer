@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:simple_audio_trimmer/simple_audio_trimmer.dart';
-import 'package:simple_audio_trimmer/simple_audio_trimmer_platform_interface.dart';
-import 'package:simple_audio_trimmer/simple_audio_trimmer_method_channel.dart';
+import 'package:new_simple_audio_trimmer/simple_audio_trimmer.dart';
+import 'package:new_simple_audio_trimmer/simple_audio_trimmer_platform_interface.dart';
+import 'package:new_simple_audio_trimmer/simple_audio_trimmer_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 class MockSimpleAudioTrimmerPlatform
